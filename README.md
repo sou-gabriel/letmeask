@@ -7,8 +7,7 @@
 ---
 
 # 👨‍🏫 Letmeask
-> Uma aplicação web desenvolvida durante o Next Level Week Together. A motivação por trás desta aplicação foi desenvolvier um sistema de que gerenciasse dúvidas. Os usuários
-autorizados possuem total liberdade para adicionar, curtir, remover, destacar uma dúvida, e até mesmo remover uma sala.
+> Uma aplicação web desenvolvida durante o Next Level Week Together. A motivação por trás desta aplicação foi desenvolver um sistema para gerenciar e controlas dúvidas. Os usuários autorizados possuem total liberdade para adicionar, curtir, remover, destacar uma dúvida, e até mesmo remover uma sala.
 
 ## 🧰 Tecnologias Utilizadas
 - React.JS
